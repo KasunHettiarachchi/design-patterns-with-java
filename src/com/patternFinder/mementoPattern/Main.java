@@ -1,4 +1,4 @@
-package com.patternFinder;
+package com.patternFinder.mementoPattern;
 
 import com.patternFinder.mementoPattern.Editor;
 import com.patternFinder.mementoPattern.History;
